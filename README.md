@@ -21,4 +21,4 @@ No installation is required to use the application.
 
 ## Requirements:
 - Modern web browser with JavaScript support.
-- nternet access for working with the API.
+- Internet access for working with the API.
