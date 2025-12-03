@@ -1,5 +1,8 @@
 # Weather Application
 
+##  Demo  
+🔗 [View the app on Netlify](https://lily-weather.netlify.app)
+
 ## Project Description
 This application allows you to check the weather in various cities around the world. It is built using HTML, CSS, and JavaScript.
 The weather is fetched using an API, and asynchronous JavaScript is used. The app automatically detects the user's city and displays weather data on the main page upon the first launch.
