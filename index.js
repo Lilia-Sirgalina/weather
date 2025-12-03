@@ -11,7 +11,7 @@ geo();
 
 
 const API = {
-    endpoint: "http://api.openweathermap.org/data/2.5/",
+    endpoint: "https://api.openweathermap.org/data/2.5/",
     key: "6df78de940fe94f92e6ac25b0dea9636"
 }
 
